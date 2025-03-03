@@ -7,7 +7,7 @@
   - [osTicket: Post-Installation Configuration](https://github.com/joshmadakorcc/post-install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/joshmadakorcc/ticket-lifecycle)
 - <b>Microsoft Azure</b>
-  - [VM Setup & PowerShell Basics](https://github.com/joshmadakorcc/configure-ad)
+  - [VM Setup & PowerShell Basics](https://github.com/AbrahamJeremiah/VM-Setup-PowerShell-Basics)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/joshmadakorcc/azure-network-protocols)
 
 <h2>🤳Connect with me:</h2>
